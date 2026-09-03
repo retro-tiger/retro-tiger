@@ -1,22 +1,25 @@
 # Zoku Zoku Heroes: Full Changer Preservation Patch
 
-The Full Changer is a piece of hardware that is now over 20 years old, and the risk of failure continues to increase as time passes.
+The Full Changer is now over 20 years old, and working units are becoming increasingly rare. As the hardware continues to age, failures may eventually make some game content difficult or impossible to access.
 
-To help preserve the game and keep its content accessible even when original hardware is unavailable or no longer functioning, this patch adds an alternative way to receive Space Characters (宇宙文字).
+This patch was created for preservation purposes, allowing players to continue experiencing content that originally depended on the Full Changer hardware.
 
 ## Features
 
-- Press **SELECT** on the Full Changer reception screen to enter a Space Character manually.
-- This allows players to access Full Changer content without relying on the original hardware.
+- Press **SELECT** on the Full Changer reception screen to display a two-digit ID.
+- Each ID corresponds to an internal Space Character (宇宙文字) used by the game.
+- By entering the appropriate ID, players can access Space Character content without relying on the original hardware.
 
 ## Usage
 
-On the Full Changer reception screen, press **SELECT** and enter the corresponding numeric value for the desired Space Character.
+1. Open the Full Changer reception screen.
+2. Press **SELECT** to display a two-digit ID.
+3. Use the ID corresponding to the desired Space Character.
 
-Please refer to the accompanying blog post for the complete conversion table between numeric values and Space Characters.
+Please refer to my blog for the complete mapping between Space Characters and their IDs.
 
 ## Disclaimer
 
 This is an unofficial patch created for game preservation purposes.
 
-Use at your own risk. The author assumes no responsibility for any issues, data loss, or damage resulting from the use of this patch.
+Use at your own risk. The author assumes no responsibility for any issues, data loss, hardware damage, or other problems resulting from the use of this patch.

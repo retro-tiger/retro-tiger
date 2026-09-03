@@ -16,8 +16,6 @@ This patch was created for preservation purposes, allowing players to continue e
 2. Press **SELECT** to display a two-digit ID.
 3. Use the ID corresponding to the desired Space Character.
 
-Please refer to my blog for the complete mapping between Space Characters and their IDs.
-
 ## Disclaimer
 
 This is an unofficial patch created for game preservation purposes.

@@ -1,4 +1,4 @@
-# Zoku Zoku Heroes: Full Changer Preservation Patch
+# Zok Zok Heroes: Full Changer Preservation Patch
 
 The Full Changer is now over 20 years old, and working units are becoming increasingly rare. As the hardware continues to age, failures may eventually make some game content difficult or impossible to access.
 

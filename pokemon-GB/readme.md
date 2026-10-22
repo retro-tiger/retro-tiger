@@ -1,8 +1,19 @@
-# Pokémon Yellow Team Rocket Patch
+# Pokémon Team Rocket Patches
 
-An unofficial add-on patch for Pokémon Yellow that allows you to play as Jessie or James from Team Rocket.
+Unofficial add-on patches that allow you to play as Jessie or James from Team Rocket in Pokémon Yellow, Red, Green, and Blue.
 
-This project is designed to be applied on top of the Pokémon Yellow Full Color patch created by yyoossk.
+## Supported Games
+
+Patches are available for the following Japanese Game Boy games:
+
+- Pokémon Yellow
+- Pokémon Red
+- Pokémon Green
+- Pokémon Blue
+
+The available features and installation requirements differ between Pokémon Yellow and Pokémon Red, Green, and Blue.
+
+# Pokémon Yellow Version
 
 ## Features
 
@@ -18,36 +29,42 @@ This project is designed to be applied on top of the Pokémon Yellow Full Color 
 
 ### Catch Opposing Trainers' Pokémon
 
-To make the game feel more like a Team Rocket adventure, this patch allows you to catch Pokémon belonging to opposing Trainers.
+The Pokémon Yellow patches allow you to catch Pokémon belonging to opposing Trainers.
 
 When you successfully catch an opposing Trainer's Pokémon:
 
 - Your Pokémon will still receive experience points.
 - The battle will continue after the Pokémon is caught.
 
-## Available Patch Versions
+## Available Pokémon Yellow Patches
 
 Choose and apply only one of the following main patches:
 
-- **Jessie Version**
-  - Changes the player character to Jessie.
-  - Changes the rival to James.
+### Jessie Version
 
-- **James Version**
-  - Changes the player character to James.
-  - Changes the rival to Jessie.
+- Changes the player character to Jessie.
+- Changes the rival to James.
 
-- **Jessie Version with Meowth-Style Follower**
-  - Includes all changes from the Jessie Version.
-  - Also changes the appearance of the following Pikachu into a Meowth-style Pokémon.
+### James Version
 
-- **James Version with Meowth-Style Follower**
-  - Includes all changes from the James Version.
-  - Also changes the appearance of the following Pikachu into a Meowth-style Pokémon.
+- Changes the player character to James.
+- Changes the rival to Jessie.
 
-The Meowth-style follower patches already include the corresponding Jessie or James character changes.
+### Jessie Version with Meowth-Style Follower
 
-Do not apply the standard character patch and the Meowth-style follower version together. Choose only one main patch.
+- Includes the Jessie player character.
+- Changes the rival to James.
+- Changes the appearance of the following Pikachu into a Meowth-style Pokémon.
+
+### James Version with Meowth-Style Follower
+
+- Includes the James player character.
+- Changes the rival to Jessie.
+- Changes the appearance of the following Pikachu into a Meowth-style Pokémon.
+
+The Meowth-style follower versions already include the corresponding Jessie or James character changes.
+
+Do not apply a standard character patch and a Meowth-style follower version together. Choose only one main patch.
 
 Please do not expect highly polished follower graphics, as the sprites were created mainly for fun.
 
@@ -55,15 +72,15 @@ The Meowth-style follower versions also include a small post-game bonus. Play th
 
 ## Optional Dialogue Patch
 
-An additional patch changes selected dialogue to better match the Team Rocket theme.
+An optional dialogue patch is available for Pokémon Yellow.
 
-This dialogue patch is optional and can be applied after your selected main patch.
+It changes selected dialogue to better match the Team Rocket theme and can be applied after your selected main patch.
 
-## Required Base Patch
+## Required Base Patch for Pokémon Yellow
 
-This is an add-on patch and cannot be used by itself.
+The Pokémon Yellow patches are add-ons and cannot be used by themselves.
 
-It must be applied on top of the following patch:
+They must be applied on top of the following Full Color patch:
 
 [Pokémon Yellow Full Color Patch by yyoossk](https://yyoossk.blogspot.com/2026/10/blog-post_364.html)
 
@@ -71,58 +88,100 @@ The current release is designed specifically for:
 
 **Pokémon Yellow Full Color, Catch All 151 Pokémon Edition, Original Generation I Graphics Edition v1.3**
 
-Other editions and versions are not currently supported.
+Other Pokémon Yellow Full Color editions and versions are not currently supported.
 
-Support for additional versions may be considered in the future. However, because the differences between the available versions have not yet been fully investigated, future support may instead focus on Pokémon Red, Green, or Blue.
+## Recommended Patch Order for Pokémon Yellow
 
-## Recommended Patch Order
-
-1. Prepare a clean ROM image dumped from your own Pokémon Yellow cartridge.
+1. Prepare a clean ROM image dumped from your own Japanese Pokémon Yellow cartridge.
 2. Apply the compatible Pokémon Yellow Full Color patch by yyoossk.
-3. Choose and apply only one of the following main patches:
+3. Choose and apply only one Pokémon Yellow main patch:
    - Jessie Version
    - James Version
    - Jessie Version with Meowth-Style Follower
    - James Version with Meowth-Style Follower
-4. Apply the optional dialogue patch if desired.
+4. Apply the optional Pokémon Yellow dialogue patch if desired.
 
 Do not apply multiple main patches to the same ROM.
 
 Applying incompatible patches or applying them in a different order may cause unexpected behavior.
 
-## Special Thanks
+# Pokémon Red, Green, and Blue Versions
 
-Special thanks to **yyoossk** for creating and sharing the Pokémon Yellow Full Color patch.
+Team Rocket patches are also available for the Japanese versions of Pokémon Red, Green, and Blue.
 
-This Team Rocket add-on project would not have been possible without yyoossk's work.
+Unlike Pokémon Yellow, these games do not originally have a following Pokémon feature. Therefore, the Red, Green, and Blue patches do not include Meowth-style follower versions.
 
-## Compatibility and Testing
+## Available Features
 
-This patch has not been fully tested from the beginning to the end of the game.
+The following patches are available for Pokémon Red, Green, and Blue:
+
+### Jessie Version
+
+- Changes the player character to Jessie.
+- Changes the rival to James.
+
+### James Version
+
+- Changes the player character to James.
+- Changes the rival to Jessie.
+
+### Optional Dialogue Patch
+
+An optional dialogue patch changes selected dialogue to better match the Team Rocket theme.
+
+It can be applied after the selected character patch.
+
+## Recommended Patch Order for Red, Green, and Blue
+
+1. Prepare a clean ROM image dumped from your own Japanese Pokémon Red, Green, or Blue cartridge.
+2. Apply the character patch made specifically for your game:
+   - Jessie Version
+   - James Version
+3. Apply the matching optional dialogue patch if desired.
+
+Choose only one character patch.
+
+Do not apply a patch made for a different game version. For example, do not apply the Pokémon Red patch to Pokémon Green or Blue.
+
+The Red, Green, and Blue versions do not require the Pokémon Yellow Full Color patch.
+
+Make sure to select the patch folder that matches your game and version.
+
+# Special Thanks
+
+Special thanks to **yyoossk** for creating and sharing the Pokémon Full Color patch.
+
+The Pokémon Color version of this Team Rocket add-on project would not have been possible without yyoossk's work.
+
+# Compatibility and Testing
+
+These patches have not been fully tested from the beginning to the end of every game.
 
 Bugs, graphical issues, compatibility problems, or other unexpected behavior may occur.
 
 If you encounter a problem, please include the following information when reporting it:
 
-- The name of the Full Color base patch
-- The name of the Team Rocket patch you applied
-- Whether you also applied the optional dialogue patch
+- The game and version you used
+- The name of the character patch you applied
+- Whether you applied the optional dialogue patch
+- For Pokémon Yellow, the name of the Full Color base patch
 - The order in which you applied the patches
 - A detailed description of where and how the problem occurred
 - A screenshot, if possible
 
-## Important Notes
+# Important Notes
 
 - Apply and use these patches entirely at your own risk.
 - Always back up your save data before applying or using a patch.
 - Use only a ROM image dumped from a game cartridge that you legally own.
 - ROM files are not included in this repository.
 - Do not request or share copyrighted ROM files through this repository.
+- Make sure that each patch matches the correct game and version.
 - This is an unofficial, fan-made modification.
 - This project is not affiliated with or endorsed by Nintendo, Game Freak, Creatures, or The Pokémon Company.
 - The author assumes no responsibility for data loss, damage, or other problems resulting from the use of these patches.
 
-## Disclaimer
+# Disclaimer
 
 Pokémon and all related names and properties belong to their respective owners.
 
